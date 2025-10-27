@@ -17,7 +17,7 @@ To write a CPP Program to overload the first function to perform addition, secon
 
 
 ## Program:
-```
+```cpp
 #include<iostream>
 using namespace std;
 
