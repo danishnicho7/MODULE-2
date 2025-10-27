@@ -18,7 +18,7 @@ To write A CPP Program to create class Rectangle and calculate the volume of the
 
 
 ## Program:
-```
+```cpp
 #include <iostream>
  
 using namespace std;
