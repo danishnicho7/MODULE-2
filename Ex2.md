@@ -19,7 +19,7 @@ To write a CPP Program to overload a function to perform sum of two integers and
 
 
 ## Program:
-```
+```cpp
 #include<iostream>
 using namespace std;
 
