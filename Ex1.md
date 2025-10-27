@@ -18,7 +18,7 @@ To write a CPP program to overload the (+) operator to add two objects both the 
 10. End.
 
 ## Program:
-```
+```cpp
 #include<iostream>
 using namespace std;
 class box
