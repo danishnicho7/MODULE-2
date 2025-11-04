@@ -1,5 +1,6 @@
 # Ex.No:3
 # Ex.Name:Write A CPP Program to create class Rectangle and calculate the volume of the rectangle, make use of static member variable in the class Rectangle.
+## Date:14/08/25
 
 ## Aim:
 To write A CPP Program to create class Rectangle and calculate the volume of the rectangle, make use of static member variable in the class Rectangle.
